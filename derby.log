@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 30 17:30:31 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0166-c5cf-f2a3-00000677be50 
+on database directory /home/crakama/Projects/DICPro/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@33fd9b52 
+Loaded from file:/usr/local/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/crakama/Projects/DICPro
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-34-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
